@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the suffering seed of royalty, wheresoever tribulated upon the face of the whole earth the salutation of your brother under the oppressive yoak of bonds, in Rome-prison of madmen / John.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54446</idno>
+            <idno type="STC">Wing P1634</idno>
+            <idno type="STC">ESTC R3509</idno>
+            <idno type="EEBO-CITATION">13192146</idno>
+            <idno type="OCLC">ocm 13192146</idno>
+            <idno type="VID">98381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 433:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the suffering seed of royalty, wheresoever tribulated upon the face of the whole earth the salutation of your brother under the oppressive yoak of bonds, in Rome-prison of madmen / John.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by John Perrot. Cf. DNB.</note>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98381:1" rendition="simple:additions"/>
+            <p>TO THE Suffering SEED OF ROYALTY, Whereſoever <hi>Tribulated</hi> upon the Face of the whole Earth; THE SALUTATION Of Your BROTHER Under the Oppreſſive Yoak of BONDS, in <hi>ROME—PRISON</hi> of Mad-men. JOHN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <hi>Black-ſpread-Eagle</hi> and <hi>Windmill,</hi> in <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Grand,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:98381:2"/>
+            <head>To the Suffering Seed of Royalty, &amp;c.</head>
+            <p>IN the Everlaſting Bowels and Spirit of <hi>Love, Unity, Pitty, Compaſſion</hi> and <hi>Mercy,</hi> I truly ſet my whole <hi>Mind, Soul,</hi> and <hi>utmoſt Strength</hi> unto the Weight of <hi>Your <hi>Yoak,</hi>
+               </hi> bea<g ref="char:EOLhyphen"/>ring your <hi>Burdens</hi> in <hi>breathing</hi> and <hi>burning flames</hi> of the Righteous Zeal of the Temple of the Lord God, and for your ſakes am a man of <hi>ſighs, ſobs, ſorrows, tears, cryes, groans,</hi> and of <hi>ſupplications</hi> and <hi>prayers</hi> night and day in my poverty and weakneſs, pleading and wreſtling with the Moſt Strong and Mighty One for you all, in this the day of your <hi>Temptations</hi> and <hi>ſore Tryals,</hi> that you may ſtand on the Foundation of the Heavens, which was before the Earth and the ſlippery places thereof were created or manifeſt; that whilſt your Enemies watch for <hi>your <hi>downfal,</hi>
+               </hi> ye may walk <hi>as Mighty men;</hi> and whilſt they ſeek <hi>for your <hi>haltings,</hi>
+               </hi> you may run <hi>ſeven-fold</hi> more <hi>ſwift</hi> in the <hi>Race;</hi> and whilſt they ſeek <hi>to caſt you down</hi> to the <hi>ground,</hi> you may <hi>mount up</hi> into the Heaven of the Glory of God, as with the <hi>Wings</hi> of <hi>Eagles</hi> and <hi>Angels;</hi> and whilſt they think they have you <hi>in <hi>woful places,</hi>
+               </hi> you may live <hi>as in <hi>Princely Palaces,</hi>
+               </hi> cloathed with <hi>ſoft Rayment,</hi> fed with the <hi>Bread of Saints</hi> and <hi>de<g ref="char:EOLhyphen"/>licious Meats of Angels,</hi> conſolated with the <hi>Harmony of Heaven,</hi> and crowned with <hi>Diadems of Glory:</hi> Surely I have cryed <hi>aloud, aloud, aloud,</hi> even with <hi>a lift up voyce</hi> unto my God, ſaying; O my Lord God of all Mercies, is not <hi>Iſrael</hi> thy <hi>Son,</hi> and <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> thy <hi>only Daughter?</hi> or, Was <hi>Iſrael</hi> of old, in the ancient dayes of <hi>Moſes, Joſhua,</hi> and the reſt of thy <hi>Servants</hi> like unto <hi>Sion</hi> thy <hi>Son</hi> in this the day that thou haſt made him a People? Though they <hi>murmured</hi> againſt thee, and <hi>repined</hi> in the times of their ſtraights; yet thy <hi>Mercies</hi> failed them not in the time of need: And canſt thou <hi>forſake</hi> or <hi>forget</hi> this thy <hi>Choſen Gene<g ref="char:EOLhyphen"/>ration,</hi> which truſt in thy Power to the utmoſt, and in the <hi>deepeſt ſtraits</hi> are ready to ſay in their hearts, <hi>Our God <hi>is the beſt of thouſands,</hi>
+               </hi> and <hi>more amiable</hi> and <hi>deſirable</hi> than all beſides Him that is in the Earth or Heaven? Can thy <hi>Righteous Soul forget
+<pb n="3" facs="tcp:98381:2"/>
+to be merciful,</hi> and remember no more to be <hi>compaſſionate</hi> unto the <hi>languiſhing diſtreſſes</hi> of thy own <hi>poor</hi> and <hi>tender ſucklings,</hi> and <hi>little ones,</hi> which cannot ſtand <hi>without thy help,</hi> nor walk <hi>without thy aſſiſtance?</hi> Shall the Enemy ſay, <hi>Lo, they were alwayes as a <hi>bruiſed people,</hi> as if the Countenance of God had never been towards them, <hi>and now</hi> his fury is fallen down flat upon them?</hi> Oh Lord, why ſhall the <hi>ſluces</hi> be alwayes <hi>open</hi> to the <hi>floods,</hi> and thy <hi>plants</hi> to the <hi>ſtorms</hi> of the <hi>winter?</hi> If I have found <hi>grace</hi> or <hi>favour</hi> in thine eye, O Lord my God accept of me, if it be to be <hi>nayled hand</hi> and <hi>foot</hi> on a <hi>Croſſe,</hi> or torn aſunder with <hi>wild horſes.</hi> Oh but what could the deſtruction of my fleſh <hi>pleaſe, ſatisfie,</hi> or <hi>give content</hi> to the Will of the Holy One in? for thou <hi>requireſt the <hi>heart,</hi>
+               </hi> which I offer unto thee, with the <hi>body</hi> and <hi>its tears,</hi> and the <hi>deepeſt groans</hi> of my heavy ſoul for thy <hi>Iſrael,</hi> that <hi>Thou</hi> in thy <hi>Sion</hi> mayeſt <hi>be glorified,</hi> who art <hi>ten thouſand times</hi> more un<g ref="char:EOLhyphen"/>to me than all thine <hi>Iſrael</hi> is. And for this cauſe of <hi>thy Glory</hi> in <hi>Sion</hi> and <hi>Jeruſalem,</hi> knoweſt thou not that I could <hi>willingly dye</hi> with a heart <hi>broken</hi> indeed with <hi>unspeakable grief</hi> and <hi>ſor<g ref="char:EOLhyphen"/>rows?</hi> Surely my God, thou ſeeſt and knoweſt it, in <hi>whoſe ſight</hi> O that I could be accepted to the thing indeed, even for <hi>Iſraels <hi>Ranſom;</hi>
+               </hi> for then ſhould my <hi>ſorrows</hi> be <hi>joys</hi> unto my ſoul, and with <hi>gladneſs</hi> would I flie unto <hi>grief,</hi> as a <hi>ſhaft</hi> that is ſhot to the <hi>mark:</hi> But <hi>alas, alas,</hi> I am a <hi>Child</hi> and a <hi>Fool</hi> before the <hi>Eter<g ref="char:EOLhyphen"/>nal God,</hi> and what am I to ſpeak to <hi>His Majeſty,</hi> but that ſurely He hath <hi>Mercy,</hi> and His <hi>Compaſſions</hi> can in no wiſe fail.</p>
+            <p>And behold, the God of Heaven <hi>rent me</hi> as a <hi>Rag</hi> with his <hi>Power,</hi> and <hi>tore me</hi> as a <hi>Paper</hi> with his Word, and <hi>clove</hi> me <hi>a<g ref="char:EOLhyphen"/>ſunder,</hi> and even <hi>ground</hi> me to <hi>duſt</hi> and <hi>pouder,</hi> and <hi>melted</hi> me as <hi>Wax,</hi> and made me <hi>run down</hi> as <hi>a River</hi> of water; for He hath power over hearts, and can make contrite as he pleaſeth, and broken as his Power moveth; whoſe Goodneſs <hi>anſwered me,</hi> ſaying,</p>
+            <p>I am <hi>God,</hi> even the <hi>Lord God</hi> of <hi>all Dominion</hi> and <hi>Supremacy,</hi> which holdeth the <hi>Covenant of Compaſſions</hi> and <hi>Mercies,</hi> who <hi>changeth not,</hi> but am as <hi>yeſterday,</hi> ſo <hi>this day,</hi> yea, and <hi>for ever</hi> and <hi>ever,</hi> who ſpeaketh unto thee: <hi>Iſrael</hi> is my <hi>own Seed,</hi> he is begotten of mine <hi>Eternal Love,</hi> and born of my <hi>choiceſt Af<g ref="char:EOLhyphen"/>fection:</hi> and therefore let <hi>Iſrael,</hi> the <hi>Son</hi> of <hi>my boſom,</hi> and <hi>Love</hi>
+               <pb n="4" facs="tcp:98381:3"/>
+of mine <hi>own heart,</hi> know, that though a father might caſt out the <hi>ſon</hi> of the ſeed of <hi>his loyns</hi> born in his <hi>own image,</hi> and though a mother might hate that the <hi>fruit of her womb</hi> ſhould at all <hi>be ſuckled</hi> or <hi>nurſed;</hi> Moreover, though Man and Beaſt might grow out of all <hi>natural kind,</hi> and the <hi>Earth, Seas</hi> and <hi>Rivers,</hi> and all that in them is, become wholly <hi>unnatural</hi> in their <hi>kinds;</hi> yea, if the <hi>Heavens,</hi> with the <hi>Sun, Moon</hi> and <hi>Stars,</hi> could be changed from their glory, and no more be ſeen as Lights; yet cannot I <hi>alter</hi> mine <hi>Affection,</hi> nor <hi>turn</hi> the <hi>tender bowels</hi> of my <hi>Love</hi> from <hi>Sion</hi> my <hi>firſt-born,</hi> and <hi>Jeruſalem</hi> my <hi>only daughter;</hi> but I who have <hi>begotten, formed</hi> and <hi>created</hi> him in the <hi>womb,</hi> do hold the <hi>Treaſures of <hi>Mercies</hi>
+               </hi> in <hi>ſtore</hi> for him, and the <hi>Eter<g ref="char:EOLhyphen"/>nal Riches</hi> of <hi>all Compaſſions</hi> to be revealed; Yet a little, and it ſhall be <hi>in mine appointed time</hi> (wherein I will magnifie mine Eternal Glory) to his moſt exceeding and ſurpaſſing Joyful<g ref="char:EOLhyphen"/>neſs, even for ever and ever. And therefore though I, his <hi>tender compaſſionate Father</hi> have led him into the <hi>Wilderneſs</hi> to be <hi>tryed</hi> and <hi>tempted,</hi> that he may be <hi>throughly <hi>cleanſed, ſan<g ref="char:EOLhyphen"/>ctified</hi>
+               </hi> and <hi>purified,</hi> yet lo, I <hi>am walking</hi> in the <hi>midſt</hi> of the <hi>Trees</hi> of the <hi>ſolitary places</hi> among all his Tents, ſpeaking <hi>com<g ref="char:EOLhyphen"/>fortable things unto <hi>Sion</hi> my Son,</hi> and <hi>Ieruſalem <hi>my Virgin-Daughter;</hi>
+               </hi> for this is <hi>the place</hi> wherein I will <hi>allure</hi> her, and that with the promiſe of <hi>Certainties,</hi> and not of <hi>Flatteries,</hi> for I am the <hi>righteous</hi> and <hi>faithful God</hi> of <hi>Heaven;</hi> whilſt I ſpeak unto <hi>Sion, <hi>O Sion,</hi> my Son,</hi> and <hi>Ieruſalem, <hi>my Daughter,</hi>
+               </hi> ap<g ref="char:EOLhyphen"/>pear ye as <hi>my Off-spring;</hi> and <hi>as I live,</hi> ſaith the Lord, <hi>I will appear as your God.</hi> I have born the <hi>Iniquities of all Ages,</hi> bear ye therefore <hi>a little in this Age,</hi> that ye may be known to bear my <hi>perfect Similitude</hi> and <hi>Image</hi> in your <hi>Age.</hi> And then behold, I thy God, who can <hi>bear all things,</hi> but not <hi>thy bruiſes,</hi> nor ſuffer the <hi>Oppreſſions</hi> that are on thee (for that thou art tenderer to me than the Apple of mine Eye, becauſe thou art weak and feeble, poor and helpleſs in thy ſelf, and haſt no weapon of vengeance with thee, ſave that thou caſteſt thy griefs upon me, and thy ſorrows, as darts, into my boſom) even I will <hi>ariſe</hi> as the <hi>ſhe Bear</hi> that is <hi>robbed of her young,</hi> and as <hi>a Lionneſs <hi>bereaved of her whelps;</hi>
+               </hi> yea, <hi>I will roar</hi> with the <hi>voice of ter<g ref="char:EOLhyphen"/>rible Thunders</hi> from the <hi>Heavens,</hi> and will <hi>rend</hi> in the <hi>Earth
+<pb n="5" facs="tcp:98381:3"/>
+beneath,</hi> and make the <hi>horns</hi> of <hi>Cattel</hi> to ſmite againſt the <hi>horns</hi> of <hi>Cattel,</hi> the <hi>black</hi> againſt <hi>the bloody,</hi> and <hi>the ſpeckled</hi> againſt <hi>the griefled,</hi> that <hi>the Flock of my Paſture <hi>may live.</hi>
+               </hi> And thus I have <hi>decreed</hi> the work of my Hand, and by the <hi>puſh</hi> of the <hi>Horn</hi> of <hi>an Unicorn, <hi>Fortreſſes</hi> ſhall fall,</hi> and the <hi>Doors of Dungeons <hi>ſhull be opened,</hi>
+               </hi> and my Seed <hi>ſing Pſalms of <hi>Delive<g ref="char:EOLhyphen"/>rance;</hi>
+               </hi> for I the <hi>Faithful One</hi> am the <hi>Saviour</hi> of <hi>mine own Remnant,</hi> which ſaith, <hi>we will ſtand ſtill</hi> and <hi>not move;</hi> nay, we will not <hi>move <hi>hand</hi> againſt <hi>our enemies,</hi>
+               </hi> nor <hi>finger <hi>againſt our</hi> fierceſt foes:</hi> but will <hi>commit <hi>our cauſe</hi>
+               </hi> to the <hi>Holy One,</hi> who <hi>marketh</hi> the <hi>footſteps</hi> of <hi>our way;</hi> and if he <hi>ſuffer us</hi> to be <hi>a ſpoyl,</hi> then will we be <hi>a ſpoyl indeed,</hi> becauſe through <hi>our ſpoyl,</hi> He can gain <hi>himſelf a prey of thouſands;</hi> for He is the <hi>Wiſe One,</hi> even the <hi>wonderful wiſe One,</hi> whoſe way is paſt finding out: Wherefore we will <hi>reſt</hi> and <hi>be ſtill,</hi> and <hi>hold our peace</hi> in <hi>Content,</hi> until He hath <hi>perfected</hi> our <hi>Patience</hi> to his praiſe. This is the <hi>Seed</hi> to whom I have <hi>covenanted Glory,</hi> I the <hi>Faithful</hi> and <hi>Holy One</hi> have ſaid it; I will <hi>cloath them <hi>with my Sabbath dayes Robes of Righteouſneſs,</hi>
+               </hi> and <hi>attire them</hi> with the <hi>Ornaments</hi> of <hi>mine own perpetual praiſe:</hi> their <hi>path</hi> ſhall be as the <hi>pureſt Gold,</hi> and <hi>their habitation</hi> as a <hi>Palace artificially cut in a moſt clear Criſtal Rock,</hi> and <hi>each</hi> in his <hi>dwelling</hi> ſhall be as the <hi>Sun</hi> in the <hi>Firmament,</hi> ſhining through the Walls of his Habitation, that no fleſh living ſhall be ever able to behold them for Glory: And behold, as their ſouls have gained <hi>hunger</hi> after <hi>Righteouſneſs</hi> in the <hi>labouring dayes</hi> of their <hi>tryals,</hi> and <hi>thirſt</hi> after <hi>my Glory</hi> in the <hi>hotteſt oppreſſive hours</hi> of <hi>their Perſecutions</hi> and <hi>Tribulations;</hi> and whereas, the <hi>more</hi> they have <hi>been oppreſſed,</hi> the <hi>more</hi> they <hi>loved</hi> it for my <hi>Name</hi> and <hi>Righteouſneſs ſake:</hi> therefore <hi>the day cometh</hi> that they ſhall <hi>eat</hi> no <hi>Bread</hi> but <hi>my Life,</hi> nor <hi>drink</hi> no <hi>Wine</hi> but the <hi>Rivers of <hi>my Breath;</hi>
+               </hi> neither ſhall they be as the <hi>ſons of men are,</hi> but as the <hi>Angels of my Glory</hi> in Heaven; And yet at this time I will neither <hi>tell thee,</hi> nor the train of <hi>mine Hoſt</hi> in the upper places, what I will do for theſe <hi>tender Lambs</hi> of my pleaſure; for they ſhall be mine <hi>for ever</hi> and <hi>ever,</hi> ſaith the Lord God Eternal of <hi>Righteouſneſs,</hi> and of <hi>all Love</hi> and <hi>Mer<g ref="char:EOLhyphen"/>cies.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:98381:4"/>Ah <hi>Children, children,</hi> now let me <hi>your Brother</hi> in the Lord, ſpeak in his grace unto you; Though the <hi>Day</hi> is as the like hath never been unto you before, ſhut up in <hi>Dens</hi> and <hi>Holes,</hi> in <hi>crouds</hi> and <hi>cluſters, <hi>Male</hi>
+               </hi> and <hi>Female, old</hi> and <hi>young, ſtrong</hi> and <hi>weak,</hi> without <hi>reſpect</hi> unto the <hi>feeble,</hi> or <hi>any regard</hi> unto the <hi>infirm</hi> and <hi>tender</hi> of <hi>Body;</hi> yet, Who is it that waiteth upon his God, but <hi>feeleth Mercy</hi> taking him by the hand? What <hi>Babe</hi> a<g ref="char:EOLhyphen"/>mong you is it that cryeth <hi>unto the Father,</hi> in this the Day of the <hi>Captivity</hi> of your <hi>Mother,</hi> but hath the <hi>openings</hi> of the <hi>breaſt</hi> of <hi>Conſolations,</hi> and ſenſibly <hi>ſucks</hi> of the <hi>refreſhing</hi> and <hi>reviving Milk</hi> of <hi>Joyfulneſs?</hi> Verily, I am one with you in <hi>your Com<g ref="char:EOLhyphen"/>forts</hi> and <hi>Gladneſs;</hi> feeling, with you, how ſweetly your Father ſwadleth you, and beareth you in his Boſom, and with his own <hi>right hand</hi> rocketh you in the Cradle of his everlaſting Re<g ref="char:EOLhyphen"/>poſe and Reſt; and as <hi>you hunger,</hi> putteth <hi>pap</hi> into <hi>your mouths;</hi> and as <hi>you thirſt,</hi> quencheth the <hi>drowth</hi> of your <hi>deſires</hi> with the very <hi>drops</hi> of his <hi>own fountain,</hi> and ſo feedeth you to the full, and makes you proſper in the way of his Power; and though <hi>your <hi>Dens</hi>
+               </hi> are <hi>noyſome,</hi> and your <hi>Dungeons <hi>darkneſs,</hi>
+               </hi> yet the <hi>Breath</hi> of <hi>your God</hi> is a precious <hi>Perfume</hi> continually in the middeſt of your <hi>dwelling,</hi> and <hi>his Preſence</hi> as the <hi>light</hi> of the <hi>Sun</hi> in your <hi>habitation;</hi> and <hi>now <hi>more</hi>
+               </hi> than <hi>ever</hi> you know him <hi>to be God indeed,</hi> and <hi>very gracious</hi> and <hi>good</hi> indeed, a <hi>ſure ſhelter</hi> and a <hi>ſafe refuge</hi> indeed, which will never <hi>fail you,</hi> as you never <hi>fail truſting in him,</hi> but ſtand to the <hi>utmoſt,</hi> and ſay in <hi>faithful<g ref="char:EOLhyphen"/>neſs,</hi> and in the <hi>countenance</hi> of <hi>his favour,</hi> as my tender Soul hath ſaid, <hi>What is Liberty <hi>without God?</hi> And, What is more pleaſant than a Priſon <hi>with my God?</hi>
+               </hi> Oh! Oh! my Father's Lambs, I can never tell you the <hi>riches,</hi> the <hi>largeneſs,</hi> the <hi>fulneſs,</hi> the <hi>vaſtneſs,</hi> and the <hi>everlaſting Treaſures</hi> of his <hi>eternal Love</hi> wherewith he hath <hi>viſited</hi> my <hi>Soul;</hi> and therefore my <hi>whole heart</hi> muſt ever remain ready to ſay, <hi>Bleſſed</hi> be the <hi>Day,</hi> yea, <hi>thrice bleſſed</hi> be the <hi>hour</hi> wherein I was <hi>born</hi> for <hi>proof</hi> and <hi>tryal</hi> in the <hi>ſharpneſs</hi> and <hi>ſeverity</hi> of <hi>Bonds;</hi> and yet you know not the <hi>weight</hi> thereof, neither can I tell you <hi>a tenth part thereof:</hi> I ſay, for all theſe things I muſt <hi>bleſs</hi> the <hi>moment</hi> for ever, wherein <hi>I was born unto them,</hi> becauſe never had <hi>I ſuch ſweet <hi>union, fel<g ref="char:EOLhyphen"/>lowſhip,</hi>
+               </hi> and <hi>converſation</hi> with <hi>my Maker</hi> and <hi>Husband,</hi> as <hi>I
+<pb n="7" facs="tcp:98381:4"/>
+have had</hi> in theſe <hi>moſt extream times</hi> of <hi>my tryals;</hi> which I tell you the rather, that it may <hi>provoke</hi> your ſouls unto a <hi>perfect wil<g ref="char:EOLhyphen"/>lingneſs</hi> and <hi>readineſs</hi> of <hi>ſubmiſſion</hi> unto the ſame <hi>pleaſant Yoak;</hi> for you are the Lord's <hi>Cattel,</hi> linked with the <hi>Chain</hi> of his <hi>Love,</hi> to the <hi>Plough,</hi> which ſhall turn up the whole Earth, and make <hi>Wilderneſſes <hi>planted places,</hi>
+               </hi> and <hi>ſolitary Woods</hi> and <hi>Deſerts, <hi>Vineyards of Red Wine;</hi>
+               </hi> yea, <hi>barren Hills, <hi>Olive Plantations,</hi>
+               </hi> and <hi>parched Mountains, <hi>moſt fruitful Corn fields;</hi>
+               </hi> that after <hi>your labours,</hi> you may <hi>eat</hi> the <hi>fruits</hi> of <hi>encreaſe,</hi> and <hi>drink</hi> the <hi>Wine</hi> of <hi>your travels.</hi> And therefore, O ye <hi>tendereſt Doves, <hi>lift up your heads,</hi>
+               </hi> and <hi>rejoice,</hi> and <hi>be not afraid</hi> nor <hi>diſmaid</hi> at any thing <hi>without you,</hi> but <hi>watch,</hi> and <hi>fear</hi> to hold the Teſtimony in <hi>faithfulneſs <hi>within you,</hi>
+               </hi> and then ſhall the <hi>Covenant</hi> be cer<g ref="char:EOLhyphen"/>tainly fulfilled unto you, even as the <hi>Faithful One</hi> hath <hi>ſworn</hi> it unto you <hi>in faithfulneſs.</hi>
+            </p>
+            <p>And yet a little hearken unto my Experience, as Counſel, becauſe the Lord hath inſtructed me from on high, and ſhewed me the works of his Hands in the Deeps, and made me know the <hi>Good Fiſhes of his Love,</hi> from the <hi>others</hi> that <hi>chaſe to devour,</hi> and the <hi>Beaſts</hi> of the <hi>Prey</hi> from the <hi>Lambs</hi> of his <hi>Paſture,</hi> and the <hi>ravening Fowls</hi> from the <hi>harmleſs Birds,</hi> and the <hi>ſubtil Ser<g ref="char:EOLhyphen"/>pents</hi> from the <hi>innocent ſimple Worms;</hi> for I have been <hi>driven</hi> in the Deeps with <hi>Whales,</hi> and <hi>hunted</hi> in the Earth by <hi>Foxes, Wolves</hi> and <hi>Lions,</hi> and been ſubtilly <hi>wept</hi> and <hi>lamented</hi> for by <hi>cruel Crokadiles;</hi> yea, <hi>Cockatrices</hi> have ſpit venom in my face, and <hi>Serpents</hi> have followed hard after me, to find out my foot<g ref="char:EOLhyphen"/>ſteps, and <hi>Dragons</hi> ſpued out floods to overwhelm me: Be<g ref="char:EOLhyphen"/>ſides, Oh it cannot be told, the works of the <hi>fiery flying Serpent,</hi> and his <hi>blazing appearances</hi> as <hi>Torches!</hi> Oh the <hi>Snares</hi> that he hath <hi>poliſhed,</hi> and <hi>Traps</hi> that he hath <hi>beautified</hi> with <hi>leaves</hi> of <hi>gold,</hi> which nothing could <hi>diſcover</hi> unto me beſides Him that ſearch<g ref="char:EOLhyphen"/>eth all hearts; in all which I had <hi>no ſafety</hi> but in the <hi>ſecret clift of the Rock,</hi> making <hi>fear</hi> my <hi>Bread,</hi> and <hi>trembling</hi> my <hi>Cup of Wine,</hi> and ſo I bolted my doors <hi>with truſt,</hi> and double-barred them <hi>with confidence,</hi> and made my bed of <hi>patience,</hi> and pillow of <hi>peace,</hi> and covered my ſelf with the <hi>cloathing</hi> of <hi>Content;</hi> which I tell you all as Counſel, that you may do the ſame, and abide in the ſame <hi>Pavillion</hi> of <hi>ſafety,</hi> and <hi>Munitions of the migh<g ref="char:EOLhyphen"/>tieſt
+<pb n="8" facs="tcp:98381:5"/>
+Rocks;</hi> and then ſhall you find your God to be <hi>Walls of Fire</hi> and <hi>Walls of Braſſe</hi> about you, ſpeaking unto you, as He hath of<g ref="char:EOLhyphen"/>ten ſpoken unto me in the many hours of my trembling, ſaying; <hi>Fear not, worm Iacob, for I am thy God; there is no En<g ref="char:EOLhyphen"/>chantment ſhall prevail againſt thee, neither ſhall Weapon formed againſt thee proſper;</hi> yea, He gave me <hi>wonderful Signs</hi> when <hi>I ſought them not,</hi> and <hi>Voyces <hi>when I asked not for Anſwer,</hi>
+               </hi> but waited in my <hi>ſimplicity,</hi> and made it the care of my ſoul <hi>to watch</hi> in his <hi>pure Content;</hi> for I <hi>burned</hi> with <hi>zeal</hi> for <hi>his Glory,</hi> and therefore often and carefully with <hi>numberleſs tears,</hi> and a heart <hi>melted like Wax,</hi> I have <hi>prayed</hi> and <hi>beſeeched</hi> his <hi>Mercy, rather to cut me off; without giving me the ſight of the light of another day, <hi>than that I ſhould ſin againſt his Grace, to make his Truth a reproach in the mouths of the Thouſands which have gaped to ſwallow me up as a morſel;</hi>
+               </hi> which I com<g ref="char:EOLhyphen"/>municate unto you for all your <hi>Encouragements,</hi> aſſuring you, That the Lord God will never fail you in the <hi>Humbleneſs, Con<g ref="char:EOLhyphen"/>triteneſs, Fear, Trembling</hi> and <hi>Truſt,</hi> but will be with you to the <hi>utmoſt, <hi>ſaving</hi>
+               </hi> and <hi>preſerving you,</hi> and <hi>magnifying</hi> his <hi>Name <hi>in you;</hi>
+               </hi> To whom be all <hi>Glory, Praiſe, Honour,</hi> and <hi>Re<g ref="char:EOLhyphen"/>nown, Amen, Amen, Amen;</hi> Even for <hi>ever</hi> and <hi>ever, Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
